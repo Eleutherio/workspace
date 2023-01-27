@@ -5,7 +5,7 @@ public class Gerente extends Funcionario {
 		// TODO Auto-generated constructor stub
 	}
 
-        private int senha = 301997;
+        private int senha = 3097;
         
         public int SetSenha(int senha) {
         	return this.senha = senha;
