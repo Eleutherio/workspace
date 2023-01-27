@@ -1,5 +1,10 @@
 content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="Conta"><rhs name\="Conta"/></lhs></history>
 content_assist_number_of_computers=12
+<<<<<<< HEAD
+=======
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+>>>>>>> 1d3dd289cca859c24e899d803bcd431e015245f8
 eclipse.preferences.version=1
 org.eclipse.jdt.ui.formatterprofiles.version=22
 spelling_locale_initialized=true
