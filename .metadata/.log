@@ -737,14 +737,26 @@ org.eclipse.core.runtime.CoreException: Cannot determine URI for '/BiteBank_Herd
 	at org.eclipse.equinox.launcher.Main.main(Main.java:1440)
 !SUBENTRY 2 org.eclipse.core.filebuffers 4 0 2023-01-27 15:39:19.546
 !MESSAGE Cannot determine URI for '/BiteBank_Herdado/src/Funcionario.java'.
+<<<<<<< HEAD
+!SESSION 2023-01-27 16:49:25.970 -----------------------------------------------
+eclipse.buildId=4.25.0.I20220831-1800
+java.version=19.0.1
+java.vendor=Oracle Corporation
+=======
 !SESSION 2023-01-27 16:13:38.813 -----------------------------------------------
 eclipse.buildId=4.26.0.20221201-1200
 java.version=17.0.5
 java.vendor=Eclipse Adoptium
+>>>>>>> 1d3dd289cca859c24e899d803bcd431e015245f8
 BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
 Framework arguments:  -product org.eclipse.epp.package.java.product
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
 
+<<<<<<< HEAD
+!ENTRY org.eclipse.jface 2 0 2023-01-27 16:49:34.354
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-01-27 16:49:34.354
+=======
 !ENTRY ch.qos.logback.classic 1 0 2023-01-27 16:13:40.601
 !MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
 
@@ -757,6 +769,7 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.e
 !ENTRY org.eclipse.jface 2 0 2023-01-27 16:14:10.464
 !MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
 !SUBENTRY 1 org.eclipse.jface 2 0 2023-01-27 16:14:10.464
+>>>>>>> 1d3dd289cca859c24e899d803bcd431e015245f8
 !MESSAGE A conflict occurred for CTRL+SHIFT+T:
 Binding(CTRL+SHIFT+T,
 	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
@@ -774,7 +787,11 @@ Binding(CTRL+SHIFT+T,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
+<<<<<<< HEAD
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-01-27 16:49:34.354
+=======
 !SUBENTRY 1 org.eclipse.jface 2 0 2023-01-27 16:14:10.464
+>>>>>>> 1d3dd289cca859c24e899d803bcd431e015245f8
 !MESSAGE A conflict occurred for ALT+SHIFT+R:
 Binding(ALT+SHIFT+R,
 	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
@@ -793,7 +810,11 @@ Binding(ALT+SHIFT+R,
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
 
+<<<<<<< HEAD
+!ENTRY org.eclipse.egit.ui 2 0 2023-01-27 16:49:39.575
+=======
 !ENTRY org.eclipse.egit.ui 2 0 2023-01-27 16:14:15.350
+>>>>>>> 1d3dd289cca859c24e899d803bcd431e015245f8
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
 user global configuration and to define the default location to store repositories: 'C:\Users\guife'. If this is
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
