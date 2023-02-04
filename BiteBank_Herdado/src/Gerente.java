@@ -2,7 +2,7 @@ public class Gerente extends Funcionario {
 
         public Gerente(String nome, String cpf, double salario, int tipo) {
 		super(nome, cpf, salario, tipo);
-		// TODO Auto-generated constructor stub
+		
 	}
 
         private int senha = 3097;

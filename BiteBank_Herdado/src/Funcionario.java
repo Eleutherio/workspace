@@ -14,7 +14,7 @@ public class Funcionario {
         
         public double GetBonifiçao() {
         	if (tipo == 1) {
-        		return this.salario * 1.0;
+        		return this.salario * 2.0;
         	} else if (tipo == 2) {
         		return this.salario * 0.5;
         } else {

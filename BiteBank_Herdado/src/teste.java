@@ -4,10 +4,10 @@ public class teste {
 	
 	 Funcionario guilherme = new Funcionario("Guilherme", "86756001000", 200, 1);
 	 
+	 
+	 
 	 guilherme.GetBonifiçao();
 	 System.out.println(guilherme.GetBonifiçao());
-	 System.out.println(guilherme.getNome());
-	 System.out.println(guilherme.getSalario());
 
 //	 Gerente martha = new Gerente ("Martha", "86756001000", 200);
 //	 

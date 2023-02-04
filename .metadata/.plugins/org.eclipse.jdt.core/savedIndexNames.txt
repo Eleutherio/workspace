@@ -1,8 +1,3 @@
 INDEX VERSION 1.131+C:\Users\guife\Desktop\workspace\.metadata\.plugins\org.eclipse.jdt.core
-<<<<<<< HEAD
-2159265395.index
-=======
-4166028822.index
->>>>>>> 1d3dd289cca859c24e899d803bcd431e015245f8
+1199063126.index
 1865797976.index
-913514069.index
